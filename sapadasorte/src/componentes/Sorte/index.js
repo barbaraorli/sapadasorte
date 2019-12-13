@@ -7,7 +7,7 @@ const Sorte = () => {
         <div className='sortestyle'>
             <h2>Sorte do dia</h2>
             <p>Aperta o botão sem medo de ser feliz</p>
-            <button>{imgTrevo}</button>
+            <button src='../../assets/clover.png'/>
         </div>
     )
 }
