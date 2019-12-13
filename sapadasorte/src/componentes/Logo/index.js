@@ -6,7 +6,6 @@ const Logo = () => {
     return (
         <div className='logostyle'>
             <img className='imgstyle' src={imgLogo} alt='Logo' />
-            <p>Sapa da Sorte</p>
         </div>
     )
 }

@@ -6,12 +6,12 @@
 }
 
 .imgstyle {
-	width: 200px;
-	height: 200px;
+	width: 210px;
+	height: 210px;
 	border-radius: 50%;
 
 }
 .logostyle p {
-	font-size: 24px;
-	font-weight: bold;
+	font-size: 36px;
+	font-weight: lighter;
 }

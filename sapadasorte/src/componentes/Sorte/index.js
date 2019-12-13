@@ -5,7 +5,7 @@ import '../Sorte/style.css'
 const Sorte = (props) => {
     return (
        
-    <button onClick={props.handleClick} src={props.imagem}>{props.nome}</button>
+    <button className='button' onClick={props.handleClick} src={props.imagem}>{props.nome}</button>
         
     )
 }

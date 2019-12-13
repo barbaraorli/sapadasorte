@@ -42,9 +42,6 @@ console.log(listaFrases);
           </div>
         </section>
         <section>
-          <Logo/>
-        </section>
-        <section>
           <Text />
           <Content />
         </section>
