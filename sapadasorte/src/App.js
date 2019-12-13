@@ -1,6 +1,5 @@
 import React from 'react';
 
-import Logo from '../src/componentes/Logo/index'
 import Text from '../src/componentes/Text/index'
 import Sorte from '../src/componentes/Sorte/index'
 import Footer from '../src/componentes/Footer/index'
@@ -32,8 +31,6 @@ class App extends React.Component {
 
 
   render() {
-console.log(listaFrases);
-
     return (
       <div className='landingpagestyle container'>
         <section>
