@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Content/style.css'
-import gifSapa from '../../assets/sapa.webp'
+import gifSapa from '../../assets/24303.jpg'
 
 const Content = () => {
     return (
