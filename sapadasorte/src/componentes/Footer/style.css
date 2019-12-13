@@ -1,0 +1,18 @@
+.footerstyle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #419D78;
+    font-size: 18px;
+    color: aliceblue;
+    width: 100vw;
+    height: 70px;
+    box-shadow:         0px 9px 5px 0px rgba(50, 50, 50, 0.48);
+    
+  }
+
+  a {
+      text-decoration: none;
+      color: skyblue;
+  }
+

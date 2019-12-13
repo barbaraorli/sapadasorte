@@ -64,9 +64,11 @@ const listaFrases = [
     "Olha, já te entreguei pra Deusa. Só um milagre mesmo!",
     
     "Você é completa mesmo sem ela." ]
+
+    export default listaFrases
     
-    const rand = listaFrases[Math.random() * myArray.length>>0]
+    // const rand = listaFrases[Math.random() * myArray.length>>0]
     
-    //OU
+    // //OU
     
-    const rand = listaFrases[Math.floor(Math.random() * myArray.length)]
+    // const rand = listaFrases[Math.floor(Math.random() * myArray.length)]

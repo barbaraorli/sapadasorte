@@ -1,12 +1,17 @@
 .logostyle {
 	display: flex;
 	justify-content: center;
+	align-items: center;
 	
 }
 
 .imgstyle {
-	width: 250px;
-	height: 250px;
+	width: 200px;
+	height: 200px;
 	border-radius: 50%;
 
+}
+.logostyle p {
+	font-size: 24px;
+	font-weight: bold;
 }
