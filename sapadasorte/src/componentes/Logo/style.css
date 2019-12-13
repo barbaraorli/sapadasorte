@@ -1,0 +1,9 @@
+.logostyle {
+	display: flex;
+	justify-content: center;
+}
+
+.imgstyle {
+	width: 150px;
+	height: 150px;
+}
