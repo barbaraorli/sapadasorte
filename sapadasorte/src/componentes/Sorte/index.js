@@ -1,12 +1,13 @@
 import React from 'react'
 import '../Sorte/style.css'
+import imgTrevo from '../../assets/clover.png'
 
 const Sorte = () => {
-    return(
+    return (
         <div className='sortestyle'>
-            <h3></h3>
-            <p></p>
-            <button></button>
+            <h2>Sorte do dia</h2>
+            <p>Aperta o botão sem medo de ser feliz</p>
+            <button>{imgTrevo}</button>
         </div>
     )
 }
